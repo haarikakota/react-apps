@@ -1,1 +1,1 @@
-![ React Applications ](./public/banner.png)
+![ React Applications ](./banner.png)
