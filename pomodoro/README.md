@@ -1,5 +1,3 @@
-![Monsters Rolodex]
-
 ### Steps to run
 
 ```bash
